@@ -35,16 +35,16 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 Include information about the security event, its cause, the impact, and the response. You can also include information about targeted systems, the attack source, and the estimated impact.
 
 
-# Reflect on the scenario and define what type of attack occurred and which systems were affected.
+Reflect on the scenario and define what type of attack occurred and which systems were affected.
 
 
-# Next, you will assess where the organization can improve to further protect its assets. In this step, you will focus on creating an immediate action plan to respond to the cybersecurity incident. When creating this plan, reflect on the following question:
+Next, you will assess where the organization can improve to further protect its assets. In this step, you will focus on creating an immediate action plan to respond to the cybersecurity incident. When creating this plan, reflect on the following question:
 
 - What systems or procedures need to be updated or changed to further secure the organization’s assets?
 
 
 
-# It is important to continuously monitor network traffic on network devices to check for suspicious activity, such as incoming external ICMP packets from non-trusted IP addresses attempting to pass through the organization’s network firewall.
+It is important to continuously monitor network traffic on network devices to check for suspicious activity, such as incoming external ICMP packets from non-trusted IP addresses attempting to pass through the organization’s network firewall.
 
 
 For this step, consider ways you and your team can monitor and analyze network traffic, software applications, track authorized versus unauthorized users, and detect any unusual activity on user accounts.
@@ -52,7 +52,7 @@ For this step, consider ways you and your team can monitor and analyze network t
 
 
 
-# After identifying the tools and methods you and your organization have in place for detecting potential vulnerabilities and threats, create a response plan in the event of a future incident. This typically happens after the incident occurred and has been resolved by you and your team. In this case, you will create a response plan for future cybersecurity incidents. Some items to consider when creating a response plan to any cybersecurity incident:
+After identifying the tools and methods you and your organization have in place for detecting potential vulnerabilities and threats, create a response plan in the event of a future incident. This typically happens after the incident occurred and has been resolved by you and your team. In this case, you will create a response plan for future cybersecurity incidents. Some items to consider when creating a response plan to any cybersecurity incident:
 
 - How can you and your team contain cybersecurity incidents and affected devices?
 
